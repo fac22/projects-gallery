@@ -3,40 +3,56 @@ console.log("data.js");
 const data = {
   weeks: [
     {
-      week: 1,
-      theme: "Server",
+      week: 0,
+      theme: "Testing",
       projects: [
         {
-          title: "",
+          title: "To-Do List",
           img:
             "",
-          team: ["", "", "", ""],
-          github: "https://github.com/fac22/",
-          description: ""
+          team: ["Danilo", "Elena"],
+          github: "https://github.com/fac22/Danilo-and-Elena-to-do-list",
+          description: "A to-do list tracker"
         },
         {
-          title: "",
+          title: "dothethings",
           img:
             "",
-          team: ["", "", "", ""],
-          github: "https://github.com/fac22/",
-          description: ""
+          team: ["Anna", "Adriana"],
+          github: "https://github.com/fac22/dothethings",
+          description: "A to-do list tracker"
         },
         {
-          title: "",
+          title: "To-Do List",
           img:
             "",
-          team: ["", "", "", ""],
-          github: "https://github.com/fac22/",
-          description: ""
+          team: ["Saira", "Barbara"],
+          github: "https://github.com/fac22/Saira-Barbara-to-do-list",
+          description: "A to-do list tracker"
         },
         {
-          title: "",
+          title: "To-Do List",
           img:
             "",
-          team: ["", "", "", ""],
-          github: "https://github.com/fac22/",
-          description: ""
+          team: ["Mohamed", "Alex"],
+          github: "https://github.com/fac22/todos",
+          description: "A to-do list tracker"
+        },
+        {
+          title: "To-Do List",
+          img:
+            "",
+          team: ["Cemal", "Michael"],
+          github: "https://github.com/fac22/cemal-and-michael-todo-list",
+          description: "A to-do list tracker"
+        },
+        {
+          title: "To-Do List",
+          img:
+            "",
+          team: ["Sasha", "Jihye"],
+          github: "https://github.com/fac22/Sasha-Jihye-to-do-list",
+          description: "A to-do list tracker"
         }
       ]
     },
