@@ -56,6 +56,36 @@ const data = {
         }
       ]
     },
+    {
+      week: 1,
+      theme: "Server",
+      projects: [
+        {
+          title: "Fritter",
+          img:
+            "https://raw.githubusercontent.com/fac22/fritter/main/public/fritter-logo.png",
+          team: ["Cemal", "Alex", "Anna", "Jihye"],
+          github: "https://github.com/fac22/fritter",
+          description: "A micro-blogging site"
+        },
+        {
+          title: "Shortlr",
+          img:
+            "https://raw.githubusercontent.com/fac22/microblogging_site-DASE/main/public/assets/Screenshot%202021-10-01%20at%2011.54.28.png",
+          team: ["Danilo", "Adriana", "Sasha", "Elena"],
+          github: "https://github.com/fac22/microblogging_site-DASE",
+          description: "A micro-blogging site"
+        },
+        {
+          title: "Micro-Blog",
+          img:
+            "https://raw.githubusercontent.com/fac22/mmb-blogging/main/public/images/Clock.jpg",
+          team: ["Michael", "Barbara", "Mohamed"],
+          github: "https://github.com/fac22/mmb-blogging",
+          description: "A micro-blogging site"
+        }
+      ]
+    },
   ],
   people: [
     {
