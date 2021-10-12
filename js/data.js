@@ -86,6 +86,36 @@ const data = {
         }
       ]
     },
+    {
+      week: 2,
+      theme: "Database",
+      projects: [
+        {
+          title: "eBargain",
+          img:
+            "https://raw.githubusercontent.com/fac22/week2-MCD-eBargain/main/public/logo.png",
+          team: ["Cemal", "Mohamed", "Danilo"],
+          github: "https://github.com/fac22/week2-MCD-eBargain",
+          description: "An app with a heroku-hosted PostgreSQL database."
+        },
+        {
+          title: "Food Recommendations",
+          img:
+            "",
+          team: ["Elena", "Alex", "Sasha", "Barbara"],
+          github: "https://github.com/fac22/week2-ABES",
+          description: "An app with a heroku-hosted PostgreSQL database."
+        },
+        {
+          title: "Bookcase",
+          img:
+            "",
+          team: ["Michael", "Anna", "Adriana", "Jihye"],
+          github: "https://github.com/fac22/week2-AAMJ",
+          description: "An app with a heroku-hosted PostgreSQL database."
+        }
+      ]
+    },
   ],
   people: [
     {
