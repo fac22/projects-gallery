@@ -116,6 +116,112 @@ const data = {
         }
       ]
     },
+    {
+      week: 3,
+      theme: "Authentication",
+      projects: [
+        {
+          title: "e-Coffee",
+          img:
+            "https://camo.githubusercontent.com/73b618f1ce26e55cf624209e0f5baf2c98d44a3564a7a46959121d02a5e71bc0/68747470733a2f2f692e696d6775722e636f6d2f7a466d6f6b32542e706e67",
+          team: ["Danilo", "Sasha", "Barbara", "Jihye"],
+          github: "https://github.com/fac22/week3-BDJS",
+          description: "A web app that authenticates users"
+        },
+        {
+          title: "Post Post-Its",
+          img:
+            "https://raw.githubusercontent.com/fac22/week3-aaae/main/public/images/post-it.png",
+          team: ["Alex", "Adriana", "Anna", "Elena"],
+          github: "https://github.com/fac22/week3-aaae",
+          description: "A web app that authenticates users"
+        },
+        {
+          title: "Mouldy Potatoes",
+          img:
+            "https://raw.githubusercontent.com/fac22/week3-MMC/main/README/1.png",
+          team: ["Michael", "Cemal", "Mohamed"],
+          github: "https://github.com/fac22/week3-MMC",
+          description: "A web app that authenticates users"
+        }
+      ]
+    },
+    {
+      week: 4,
+      theme: "Server-Side App",
+      projects: [
+        {
+          title: "Who Am I?",
+          img:
+            "https://whoami-app.herokuapp.com/assets/detective.png",
+          team: ["Cemal", "Adriana", "Sasha", "Elena"],
+          github: "https://github.com/fac22/week4-CASE",
+          description: "A Node/Express server-rendered application with a Postgres database."
+        },
+        {
+          title: "FACats",
+          img:
+            "",
+          team: ["Alex", "Danilo", "Mohamed"],
+          github: "https://github.com/fac22/week4-DAM",
+          description: "A Node/Express server-rendered application with a Postgres database."
+        },
+        {
+          title: "B-JAM Recipe Board",
+          img:
+            "https://raw.githubusercontent.com/fac22/week4-ABJM/main/screely-1634834223911.png",
+          team: ["Michael", "Barbara", "Jihye", "Anna"],
+          github: "https://github.com/fac22/week4-ABJM",
+          description: "A Node/Express server-rendered application with a Postgres database."
+        }
+      ]
+    },
+    {
+      week: 5,
+      theme: "Client-Side App",
+      projects: [
+        {
+          title: "GitHub Trading Cards",
+          img:
+            "",
+          team: ["Michael", "Anna"],
+          github: "https://github.com/fac22/week5-AM",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "The Guessing Game",
+          img:
+            "https://user-images.githubusercontent.com/78619809/139302816-d1931872-6a8a-44e8-bb8a-39f76cec2557.png",
+          team: ["Jihye", "Mohamed"],
+          github: "https://github.com/fac22/week5-MJ",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "GoGoGoblin",
+          img:
+            "https://raw.githubusercontent.com/fac22/week5-CAD/main/src/assets/goblin2.png",
+          team: ["Alex", "Cemal", "Danilo"],
+          github: "https://github.com/fac22/week5-CAD",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "Berry Good Friends",
+          img:
+            "https://robohash.org/8?set=set4",
+          team: ["Barbara", "Elena"],
+          github: "https://github.com/fac22/week5-EB",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "GitHang",
+          img:
+            "",
+          team: ["Adriana", "Sasha"],
+          github: "https://github.com/fac22/week5-AS",
+          description: "An interactive game built in React that uses data from an API."
+        }
+      ]
+    },
   ],
   people: [
     {
