@@ -222,6 +222,66 @@ const data = {
         }
       ]
     },
+    {
+      week: 6,
+      theme: "Full-stack App",
+      projects: [
+        {
+          title: "Subcomfy",
+          img:
+            "https://github.com/fac22/week6-basc/blob/main/public/image/subcomfy-cropped.png?raw=true",
+          team: ["Cemal", "Adriana", "Sasha", "Barbara"],
+          github: "https://github.com/fac22/week6-basc",
+          description: "A full-stack e-commerce site, server-rendered with Next.js."
+        },
+        {
+          title: "EMJA Bakery",
+          img:
+            "https://github.com/fac22/week6-EMJA/blob/main/public/images/header.jpeg?raw=true",
+          team: ["Anna", "Elena", "Mohamed", "Jihye"],
+          github: "https://github.com/fac22/week6-EMJA",
+          description: "A full-stack e-commerce site, server-rendered with Next.js."
+        },
+        {
+          title: "MAD Games",
+          img:
+            "",
+          team: ["Michael", "Danilo", "Alex"],
+          github: "https://github.com/fac22/week6-MAD",
+          description: "A full-stack e-commerce site, server-rendered with Next.js."
+        }
+      ]
+    },
+    {
+      week: 7,
+      theme: "In-House Final Project",
+      projects: [
+        {
+          title: "Mixlist",
+          img:
+            "https://github.com/fac22/mixlist/blob/main/public/bg.png?raw=true",
+          team: ["Cemal", "Michael", "Sasha", "Jihye"],
+          github: "https://github.com/fac22/mixlist",
+          description: "A full-stack social networking and album review site, built with Next.js and Supabase."
+        },
+        {
+          title: "FACTube",
+          img:
+            "https://github.com/fac22/FACTube/raw/main/Desktop.png",
+          team: ["Anna", "Danilo", "Mohamed", "Barbara"],
+          github: "https://github.com/fac22/FACTube",
+          description: "A full-stack video library site, built with Next.js and Supabase."
+        },
+        {
+          title: "Skin Goals",
+          img:
+            "https://github.com/fac22/skin-goals/blob/main/public/assets/icon/icon.png?raw=true",
+          team: ["Adriana", "Elena", "Alex"],
+          github: "https://github.com/fac22/skin-goals",
+          description: "A full-stack skin care routine site, built with Ionic and Firebase."
+        }
+      ]
+    },
   ],
   people: [
     {
